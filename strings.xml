@@ -51,4 +51,6 @@
     <string name="pref_credit">Esta versión fue construida por todos estos desarrolladores</string>
     <string name="pref_check_version">Comprobar versión</string>
     <string name="pref_update">Buscar actualizaciones y registro de cambios</string>
+    <string name="pref_maxbright_title">Brillo máximo de pantalla</string>
+    <string name="pref_maxbright_summary">Aumenta el brillo de la pantalla al máximo para mejorar la visualización bajo la luz solar</string>    
 </resources>
